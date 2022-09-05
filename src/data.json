@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+      "city": "Feucht",
+      "state": "Bavaria",
+      "country": "Germany",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          11.21433,
+          49.37597
+        ]
+      },
+      "current": {
+        "pollution": {
+          "ts": "2022-08-31T21:00:00.000Z",
+          "aqius": 34,
+          "mainus": "p2",
+          "aqicn": 12,
+          "maincn": "p2"
+        },
+        "weather": {
+          "ts": "2022-08-31T20:00:00.000Z",
+          "tp": 15,
+          "pr": 1021,
+          "hu": 79,
+          "ws": 1.54,
+          "wd": 70,
+          "ic": "01n"
+        }
+      }
+    }
+  }
